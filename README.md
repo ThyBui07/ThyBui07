@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ThyBui07
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning at Grit:lab and start my journey towards becoming a full-stack software developer.
+- Q: Why should we hire you?
+- A: Because I'm not a normal developer, I'm a magician. I can turn coffee to code, deadline to product, problem to solution and bug to feature.
 
 <!---
 ThyBui07/ThyBui07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
